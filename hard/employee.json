@@ -1,0 +1,62 @@
+[
+  {
+    "id": 0,
+    "name": "Thierno Sissoko",
+    "salary": "$100,000",
+    "department": "Data Engineering"
+  },
+  {
+    "id": 1,
+    "name": "Tyson Unce",
+    "salary": "$100,000",
+    "department": "Data Engineering"
+  },
+  {
+    "id": 2,
+    "name": "Diego Duran",
+    "salary": "$90,000",
+    "department": "Cyber Security "
+  },
+  {
+    "id": 3,
+    "name": "Konimba Diallo",
+    "salary": "$60,000",
+    "department": "Finance"
+  },
+  {
+    "id": 4,
+    "name": "Issa Bamia",
+    "salary": "$70,000",
+    "department": "Network Engineering"
+  },
+  {
+    "id": 5,
+    "name": "Moustaph Konate",
+    "salary": "$10,000",
+    "department": "IT"
+  },
+  {
+    "id": 6,
+    "name": "Oka Line",
+    "salary": "$55,000",
+    "department": "Marketing"
+  },
+  {
+    "id": 7,
+    "name": "Kesu Tsiniate",
+    "salary": "$70,000",
+    "department": "Cyber Security"
+  },
+  {
+    "id": 8,
+    "name": "Justin Stokes",
+    "salary": "$100,000",
+    "department": "Networks Engineering"
+  },
+  {
+    "id": 9,
+    "name": "Governor Brown",
+    "salary": "$75,000",
+    "department": "Human Ressources"
+  }
+]
